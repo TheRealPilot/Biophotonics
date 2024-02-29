@@ -1,2 +1,2 @@
 # Biophotonics 
-Spectra processing code for biophotonics research. Code is not complete. 
+Spectra processing code for biophotonics research
